@@ -25,7 +25,7 @@ Stacks that I know and that I'm studying
   <img align="center" alt="marcolisboa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="marcolisboa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
-  <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Angular"/>  
+  <img src="https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>  
   </div>
 
 
