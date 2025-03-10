@@ -1,8 +1,6 @@
 # Marco Lisboa
 
-Hello everybody. My name is Marco Lisboa and I'm 22 years old. I'm currently a junior Front-End Developer. Graduated in Analysis and Systems Development. In my **repositories** you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
-
-I love studying and I am always challenging myself to maintain a daily study routine. 
+Hello everyone. My name is Marco Lisboa and I'm 23 years old. I'm currently a Front-End Developer with a few years of experience. In my **repositories** you can find some projects I've done and that I'm working on, and all of them have a README with information.
 
 - :purple_heart: Interested in becoming a great front-end developer and helping other peoples grow in technology.
 - 📫 How to reach me: marcolisboa9@gmail.com
@@ -15,7 +13,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ##
 
-Stacks that I know and that I'm studying
+Stacks I know and have experience with:
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="marcolisboa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
